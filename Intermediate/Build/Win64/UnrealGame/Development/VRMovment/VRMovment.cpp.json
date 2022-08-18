@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\black\\documents\\unreal projects\\vrmovment\\intermediate\\source\\vrmovment.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\black\\documents\\unreal projects\\vrmovment\\intermediate\\build\\win64\\vrmovment\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\black\\documents\\unreal projects\\vrmovment\\intermediate\\build\\win64\\unrealgame\\development\\vrmovment\\definitions.vrmovment.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
